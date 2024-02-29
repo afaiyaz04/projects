@@ -1,4 +1,4 @@
-# Freelance Projects
+# 👨‍💻 Freelance Projects
 
 | Project | Topic|Repository| Live Preview|                      
 |--|-----|-----|------|
@@ -14,6 +14,6 @@
 
 # 🚀 Full Stack JavaScript
 
-[| Project | Topic |Repository| Live Preview                       
-|----|----|---|---|](https://afaiyaz04.github.io/crosta-website/)
+| Project | Topic|Repository| Live Preview|                      
+|--|-----|-----|------|
 |**Admin Dashboard**| Grid|[Link](https://github.com/afaiyaz04/projects/tree/main/admin-dashboard)     |   [Demo](https://afaiyaz04.github.io/projects/admin-dashboard/)
