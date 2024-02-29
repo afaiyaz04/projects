@@ -1,3 +1,9 @@
+# Freelance Projects
+
+| Project | Topic|Repository| Live Preview|                      
+|--|-----|-----|------|
+|**Crosta Cafe website**| React Js |[Link](https://github.com/afaiyaz04/crosta-website)     |   [Live](https://afaiyaz04.github.io/crosta-website/) 
+
 # 🎈 Foundations
 
 | Project | Topic|Repository| Live Preview|                      
@@ -8,6 +14,6 @@
 
 # 🚀 Full Stack JavaScript
 
-| Project | Topic |Repository| Live Preview                       
-|----|----|---|---|
+[| Project | Topic |Repository| Live Preview                       
+|----|----|---|---|](https://afaiyaz04.github.io/crosta-website/)
 |**Admin Dashboard**| Grid|[Link](https://github.com/afaiyaz04/projects/tree/main/admin-dashboard)     |   [Demo](https://afaiyaz04.github.io/projects/admin-dashboard/)
